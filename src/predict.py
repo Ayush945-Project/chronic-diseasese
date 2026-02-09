@@ -1,4 +1,6 @@
 # src/predict.py
+import warnings
+warnings.filterwarnings("ignore")
 
 import os
 import joblib
